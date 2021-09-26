@@ -63,7 +63,7 @@ def Clue1():
     if(buttonStatus == 0):
         response = triggerValue
     else:
-        response = triggerValue
+        response = "Not Triggered"
 
     return jsonify(response)
 
