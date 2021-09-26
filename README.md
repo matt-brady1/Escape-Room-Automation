@@ -1,4 +1,4 @@
-# Escape_Room_Buttons
+# Escape_Room_Automation
 Program to alert Escape Room Master when a button has been pressed so an action can be performed
 
 This is code to run four rooms that contain three buttons or inputs each. In this case there is 
